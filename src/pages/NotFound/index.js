@@ -6,7 +6,7 @@ import { Container, Title, Info } from './styles';
 
 import img404 from '../../assets/img/404.gif';
 
-export default function index() {
+export default function NotFound() {
   return (
     <Container>
       <Title>Ops! Parece que algo deu errado!</Title>

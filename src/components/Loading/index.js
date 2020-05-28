@@ -3,7 +3,7 @@ import React from 'react';
 import Dots from '../Dots';
 import { Container, Image, Info } from './styles';
 
-export default function EmptyResult() {
+export default function Loading() {
   return (
     <Container>
       <Image />
