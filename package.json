@@ -78,6 +78,6 @@
     "lint-staged": "^10.2.6",
     "prettier": "^2.0.5"
   },
-  "proxy": "http://www.omdbapi.com",
+  "proxy": "https://www.omdbapi.com",
   "homepage": "https://evertonthepaula.github.io/reactomdb/"
 }
