@@ -4,7 +4,7 @@ import respInterceptors from './interceptors/response';
 
 const instance = axios.create({
   method: 'get', // default verb
-  baseURL: process.env.REACT_APP_MARVEL_API,
+  baseURL: process.env.REACT_APP_API_PATH,
 });
 
 // Add a request interceptor
