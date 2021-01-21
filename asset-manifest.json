@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/reactomdb/static/js/main.1afbebc8.chunk.js",
+    "main.js.map": "/reactomdb/static/js/main.1afbebc8.chunk.js.map",
+    "runtime-main.js": "/reactomdb/static/js/runtime-main.06a3c673.js",
+    "runtime-main.js.map": "/reactomdb/static/js/runtime-main.06a3c673.js.map",
+    "static/css/2.60b870a3.chunk.css": "/reactomdb/static/css/2.60b870a3.chunk.css",
+    "static/js/2.3bd0439d.chunk.js": "/reactomdb/static/js/2.3bd0439d.chunk.js",
+    "static/js/2.3bd0439d.chunk.js.map": "/reactomdb/static/js/2.3bd0439d.chunk.js.map",
+    "index.html": "/reactomdb/index.html",
+    "precache-manifest.04d9f2ed89d734dbc878e63f8474d591.js": "/reactomdb/precache-manifest.04d9f2ed89d734dbc878e63f8474d591.js",
+    "service-worker.js": "/reactomdb/service-worker.js",
+    "static/css/2.60b870a3.chunk.css.map": "/reactomdb/static/css/2.60b870a3.chunk.css.map",
+    "static/js/2.3bd0439d.chunk.js.LICENSE.txt": "/reactomdb/static/js/2.3bd0439d.chunk.js.LICENSE.txt",
+    "static/media/404.gif": "/reactomdb/static/media/404.8c90696a.gif",
+    "static/media/load.gif": "/reactomdb/static/media/load.8bc8bdf3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a3c673.js",
+    "static/css/2.60b870a3.chunk.css",
+    "static/js/2.3bd0439d.chunk.js",
+    "static/js/main.1afbebc8.chunk.js"
+  ]
+}
